@@ -1,3 +1,2 @@
 flask
 huggingface_hub>=0.16.4
-ollama-python>=0.1.0
